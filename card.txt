@@ -1,0 +1,15 @@
+mains   :         D:\Ankit Wagh\Ashvi Information Technologies\MENU card\SubMenu\mains.html
+
+
+
+snaks    :      D:\Ankit Wagh\Ashvi Information Technologies\MENU card\SubMenu\snacks.html
+
+
+
+
+ice crea   :    D:\Ankit Wagh\Ashvi Information Technologies\MENU card\SubMenu\ice_creams.html
+
+
+
+
+drinks    :          D:\Ankit Wagh\Ashvi Information Technologies\MENU card\SubMenu\drinks.html
